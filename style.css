@@ -1,5 +1,7 @@
 body {
-  background: burlywood;
+}
+.container-fluid {
+  border: 2px solid red;
 }
 .front1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -112,4 +114,11 @@ body {
   font-size: small;
 
   text-align: left;
+}
+.sign {
+  text-decoration: none;
+}
+.mpic {
+  position: absolute;
+  height: 80%;
 }
